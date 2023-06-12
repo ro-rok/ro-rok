@@ -22,11 +22,11 @@ Graduate Student at New Jersey Institute of Technology
 ------------------------------------------------------
 
 * 🌍  I'm based in New York
-* ✉️  You can contact me at [rk178999@gmail.com](mailto:rk178999@gmail.com)
+* ✉️  You can contact me at [rk868@njit.edu](mailto:rk868@njit.edu)
 * 🧠  I'm learning SpringBoot
 
 
-🎓 I'm currently pursuing my Master's in Computer Science at New Jersey Institute of Technology with a 4.0 GPA. 
+🎓 I'm currently pursuing my Master's in Computer Science at the New Jersey Institute of Technology with a 4.0 GPA. 
 
 🌟 Here are a few highlights from my education:
 
