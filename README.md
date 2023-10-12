@@ -43,6 +43,8 @@ Graduate Student at New Jersey Institute of Technology
 
 🚀 Here are a few projects I've worked on that I'm particularly proud of:
 
+- Web-based Movie Exploration and Review Platform 2023 (https://cine-tracker-105f354f7aed.herokuapp.com/): Created CineTracker, an immersive movie platform with user-friendly features, secure authentication, and an engaging movie comparison game to enhance user interaction.
+- Multiplayer Card Game with Socket Programming 2023: Created a Python-based multiplayer card game with fair gameplay, effective communication, and an organized scoreboard, enhancing user satisfaction.
 - Ticket Management System 2022: Decreased support tickets by 25% by implementing a ticket management WebApp using Streamlit and Postgres SQL Databases hosted on Elephant SQL.
 - Implementation of Artificial Intelligence Algorithm on Pac-Man 2022: Developed a heuristic function to find an optimal path for the Pac-Man agent in less time and tested the algorithm on different maps, resulting in efficient target reaching and food collection.
 
