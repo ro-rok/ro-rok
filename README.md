@@ -26,7 +26,7 @@ Graduate Student at New Jersey Institute of Technology
 * 🧠  I'm learning SpringBoot
 
 
-🎓 I'm currently pursuing my Master's in Computer Science at the New Jersey Institute of Technology with a 3.92 GPA. 
+🎓 I'm currently pursuing my Master's in Computer Science at the New Jersey Institute of Technology with a 3.95 GPA. 
 
 🌟 Here are a few highlights from my education:
 
