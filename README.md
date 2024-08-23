@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan Khanna
 ====================================================================================================================================
 
-Graduate Student at New Jersey Institute of Technology
+Recent Graduate from New Jersey Institute of Technology
 ------------------------------------------------------
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [rk868@njit.edu](mailto:rk868@njit.edu)
-* 🧠  I'm learning SpringBoot
+* 🧠  [My Linktree](https://linktr.ee/ro_rok)
 
 
 🎓 I'm currently pursuing my Master's in Computer Science at the New Jersey Institute of Technology with a 3.95 GPA. 
@@ -39,6 +39,7 @@ Graduate Student at New Jersey Institute of Technology
 - Web Systems Development
 - Java Programming
 - Data Mining
+- Advanced Database System Design
 
 
 🚀 Here are a few projects I've worked on that I'm particularly proud of:
