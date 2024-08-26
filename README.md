@@ -1,31 +1,25 @@
 
-<!--
-**ro-rok/ro-rok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan Khanna
 ====================================================================================================================================
 
-Recent Graduate from New Jersey Institute of Technology
+Recent Graduate from the New Jersey Institute of Technology
 ------------------------------------------------------
 
-* 🌍  I'm based in New York
-* ✉️  You can contact me at [rk868@njit.edu](mailto:rk868@njit.edu)
+* 🌍  I'm based in U.S.A.
+* ✉️  You can contact me at [rk178999@gmail.com](mailto:rk178999@gmail.com)
+* 👨‍💻  [Portfolio](https://rohankhanna.software/)
 * 🧠  [My Linktree](https://linktr.ee/ro_rok)
 
+### Table of Contents
 
+- [About](#about)
+- [Projects](#projects)
+- [Education](#education)
+- [Skills](#skills)
+- [Socials](#socials)
+- [Badges](#badges)
+
+### About
 🎓 I'm currently pursuing my Master's in Computer Science at the New Jersey Institute of Technology with a 3.95 GPA. 
 
 🌟 Here are a few highlights from my education:
@@ -42,19 +36,43 @@ Recent Graduate from New Jersey Institute of Technology
 - Advanced Database System Design
 
 
-🚀 Here are a few projects I've worked on that I'm particularly proud of:
+### Projects
 
-- Web-based Movie Exploration and Review Platform 2023 (https://cine-tracker-105f354f7aed.herokuapp.com/): Created CineTracker, an immersive movie platform with user-friendly features, secure authentication, and an engaging movie comparison game to enhance user interaction.
-- Multiplayer Card Game with Socket Programming 2023: Created a Python-based multiplayer card game with fair gameplay, effective communication, and an organized scoreboard, enhancing user satisfaction.
+#### 🚀 Here are a few projects I've worked on that I'm particularly proud of:
 
-📚 I have also completed a few certifications, including:
+
+#### AniExplorer: An Anime Recommendation Portal
+- **Description:** A portal for anime recommendations.
+- **Link:** [AniExplorer](http://52.201.211.120)
+
+#### MusicHub: An Interactive Playlist Hub
+- **Description:** An interactive platform for creating and sharing playlists.
+- **Link:** [MusicHub](https://musichub-da725be2f015.herokuapp.com)
+
+#### CineTracker: A Movie Reviewing Platform
+- **Description:** A platform for reviewing movies.
+- **Link:** [CineTracker](https://cine-tracker-105f354f7aed.herokuapp.com)
+
+### Education
+
+#### New Jersey Institute of Technology, USA
+- **Duration:** Sep 2022 – May 2024
+- **Degree:** MS in Computer Science
+- **GPA:** 3.95
+
+#### DR. A.P.J. Abdul Kalam University, India
+- **Duration:** Jul 2020 – Jun 2022
+- **Degree:** Masters in Computer Application
+- **CGPA:** 7.28
+
+#### 📚 I have also completed a few certifications, including:
 
 - Object-Oriented Programming in Java Course from University of California San Diego (Coursera)
 - Machine Learning Course from Stanford University (Coursera)
 - Intermediate Python for Data Science Course from DataCamp School
 
 
-### 👨‍💻 Skills
+### Skills
 
 
 <p align="left">
