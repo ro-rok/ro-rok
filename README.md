@@ -7,8 +7,9 @@ Recent Graduate from the New Jersey Institute of Technology
 
 * 🌍  I'm based in U.S.A.
 * ✉️  You can contact me at [rk178999@gmail.com](mailto:rk178999@gmail.com)
-* 👨‍💻  [Portfolio](https://rohankhanna.software/)
-* 🧠  [My Linktree](https://linktr.ee/ro_rok)
+  <!-- * 👨‍💻  [Portfolio](https://rohankhanna.software/) --->
+* 👨‍💻 [Portfolio](https://ro-rok.github.io/portfolio)
+* 🧠 [My Linktree](https://linktr.ee/ro_rok)
 
 ### Table of Contents
 
