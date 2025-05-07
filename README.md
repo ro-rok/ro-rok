@@ -40,7 +40,17 @@ I hold a Master’s in Computer Science (GPA 3.95) from NJIT and bring ~3 years 
 
 ## 🚀 Projects
 
+### AutomatedML AI – No‑Code Model Trainer
+[Live Demo](https://automated-ml-ai.vercel.app/)
 
+- **Tech:** Python, FastAPI, Scikit-Learn, XGBoost, React, PostgreSQL, Groq LLaMA, Heroku, Vercel CI/CD  Docker, GitHub Actions
+
+- **Highlights:**
+  - Guided ML pipeline builder with dataset upload, EDA, cleaning, transformation, and training
+  - Integrated AI assistant (GROQ LLaMA) providing real-time contextual ML suggestions
+  - Export full pipeline as reproducible PDF report or Jupyter Notebook
+
+---
 
 ### GrindMate.AI – GenAI-Powered DSA Companion  
 [Live Demo](https://grindmate-ai.vercel.app/)  
